@@ -5,7 +5,7 @@ logo:
   alt: NextJS
 links:
   - header: Docs
-    description: Find information here
+    description: Find more information here
     url: 'https://nextjs.org/docs?utm_source=create-next-app'
   - header: Learn
     description: Learn more
