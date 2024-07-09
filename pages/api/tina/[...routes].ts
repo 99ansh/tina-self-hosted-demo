@@ -20,5 +20,7 @@ const handler = TinaNodeBackend({
 
 export default (req, res) => {
   // Modify the request here if you need to
+  console.log(req);
+  console.log(res);
   return handler(req, res);
 };
