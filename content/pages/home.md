@@ -8,7 +8,7 @@ links:
     description: Find more information here
     url: 'https://nextjs.org/docs?utm_source=create-next-app'
   - header: Learn
-    description: Learn more
+    description: Learn more please
     url: 'https://nextjs.org/learn?utm_source=create-next-app'
   - header: Templates
     description: Explore the Next.js 13 playground.
