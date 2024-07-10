@@ -14,7 +14,7 @@ links:
     description: Explore the Next.js 13 playground.
     url: 'https://vercel.com/templates?framework=next.js'
   - header: Deploy
-    description: Instantly deploy your nxt.ts sites to a nonshareable URL with Vercel.
+    description: Instantly deploy your NextNext.jsjsjs site to a shareable URL with Vercel.
     url: 'https://vercel.com/new?utm_source=create-next-app'
 ---
 
