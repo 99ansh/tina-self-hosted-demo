@@ -14,7 +14,7 @@ links:
     description: Explore the Next.js 13 playground.
     url: 'https://vercel.com/templates?framework=next.js'
   - header: Deploy
-    description: Finance team  Charles  Lisa  John  Stacy  Alexander
+    description: Marketing team  Collins  Linda  Patricia  Morgan
     url: 'https://vercel.com/new?utm_source=create-next-app'
 ---
 
